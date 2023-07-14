@@ -1,0 +1,15 @@
+.SkillAll .title h2{
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: fangsong;
+}
+
+.ProgressItem .ProgressHeading h2 {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: emoji;
+    margin-left: 15px;
+}

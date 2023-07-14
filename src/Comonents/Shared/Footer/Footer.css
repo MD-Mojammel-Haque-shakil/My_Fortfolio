@@ -1,0 +1,24 @@
+
+.waver {
+    transform: translate(0 ,8px);
+}
+
+
+.Footer .SocialIcon a i{
+    width: 44px;
+    height: 44px;
+    border: 2px solid #F26E3F;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+    color: white;
+    transition: .2s;
+}
+.Footer .SocialIcon a:hover i{
+    background-color:#F26E3F;
+    
+}
+
+
+
